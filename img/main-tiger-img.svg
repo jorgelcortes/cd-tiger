@@ -1,57 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 2346" style="enable-background:new 0 0 1920 2346;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#231F20;}
 	.st2{font-family:'Roboto-Regular';}
-	.st3{font-size:36px;}
+	.st3{font-size:36.0036px;}
 	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st5{font-size:32px;}
 	.st6{fill:#F0592C;}
 	.st7{font-family:'Roboto-Bold';}
-	.st8{font-size:40px;}
+	.st8{font-size:40.004px;}
 	.st9{fill:#DFDFDF;stroke:#231F20;stroke-width:0.3;stroke-miterlimit:10;}
 	.st10{fill:#8CA074;stroke:#231F20;stroke-width:0.3;stroke-miterlimit:10;}
-	.st11{font-size:46px;}
+	.st11{font-size:46.0046px;}
+	.st12{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
 </style>
-<image style="overflow:visible;" width="1921" height="2360" xlink:href="A6053D7371796D86.jpg"  transform="matrix(1 0 0 1 0 -13)">
+<image style="overflow:visible;" width="1919" height="2346" xlink:href="A6053D7371796D81.jpg"  transform="matrix(1 0 0 1 1 0)">
 </image>
-<rect x="220.1" y="1086.85" class="st0" width="275.07" height="93.33"/>
-<text transform="matrix(1 0 0 1.0001 220.0991 1113.856)" class="st1 st2 st3">Infrared cameras</text>
-<path class="st4" d="M523.84,1678.5h174.79c43.87,0,56.68,24,56.68,59v100.43"/>
+<rect x="220.1" y="1086.8" class="st0" width="275.1" height="93.3"/>
+<text transform="matrix(0.9999 0 0 1 220.0991 1113.8555)" class="st1 st2 st3">Infrared cameras</text>
+<path class="st4" d="M523.8,1678.5h174.8c43.9,0,56.7,24,56.7,59v100.4"/>
 <g>
-	<rect x="261.12" y="1274.43" class="st0" width="367.28" height="235.06"/>
-	<text transform="matrix(1 0 0 1 261.1254 1298.4351)"><tspan x="0" y="0" class="st1 st2 st5">More than 6,800 rangers </tspan><tspan x="0" y="38.4" class="st1 st2 st5">travel through dense </tspan><tspan x="0" y="76.8" class="st1 st2 st5">forests to protect the </tspan><tspan x="0" y="115.2" class="st1 st2 st5">wildlife in the national </tspan><tspan x="0" y="153.6" class="st1 st2 st5">park.</tspan></text>
+	<rect x="261.1" y="1274.4" class="st0" width="367.3" height="235.1"/>
+	<text transform="matrix(1 0 0 1 261.1254 1298.4351)" class="st1 st2 st5">More than 6,800 rangers </text>
+	<text transform="matrix(1 0 0 1 261.1254 1336.8351)" class="st1 st2 st5">travel through dense </text>
+	<text transform="matrix(1 0 0 1 261.1254 1375.2351)" class="st1 st2 st5">forests to protect the </text>
+	<text transform="matrix(1 0 0 1 261.1254 1413.635)" class="st1 st2 st5">wildlife in the national </text>
+	<text transform="matrix(1 0 0 1 261.1254 1452.035)" class="st1 st2 st5">park.</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1.0001 257.6308 1245.8354)" class="st6 st7 st8">VOLUNTEERS</text>
+	<text transform="matrix(0.9999 0 0 1 257.6309 1245.835)" class="st6 st7 st8">VOLUNTEERS</text>
 </g>
 <g>
-	<rect x="566.75" y="269.29" class="st0" width="780.7" height="406.76"/>
-	<text transform="matrix(1 0 0 1 566.7507 293.2896)"><tspan x="0" y="0" class="st1 st2 st5">The national park management bureau plants trees in </tspan><tspan x="0" y="38.4" class="st1 st2 st5">the park to maintain a favorable habitat for tigers and </tspan><tspan x="0" y="76.8" class="st1 st2 st5">other animals</tspan></text>
+	<rect x="566.8" y="269.3" class="st0" width="780.7" height="406.8"/>
+	<text transform="matrix(1 0 0 1 566.7507 293.2896)" class="st1 st2 st5">The national park management bureau plants trees in </text>
+	<text transform="matrix(1 0 0 1 566.7507 331.6897)" class="st1 st2 st5">the park to maintain a favorable habitat for tigers and </text>
+	<text transform="matrix(1 0 0 1 566.7507 370.0896)" class="st1 st2 st5">other animals</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1.0001 566.7505 223.6407)" class="st6 st7 st8">FOREST</text>
+	<text transform="matrix(0.9999 0 0 1 566.75 223.6406)" class="st6 st7 st8">FOREST</text>
+</g>
+<g>
+	<path class="st9" d="M740.3,464.5v-50.3c-8.6,0-18,0.7-26.4,2.1l7.9,49.7C727.8,465,734,464.5,740.3,464.5z"/>
+	<path class="st10" d="M740.3,414.1v50.3c0.1,0,0.1,0,0.2,0c65.9,0,119.4,53.5,119.4,119.4s-53.5,119.4-119.4,119.4
+		s-119.4-53.5-119.4-119.4c0-59.6,43.6-108.9,100.7-117.9l-7.9-49.7c-83.7,13.3-142.6,82.2-142.6,166.9c0,93.3,75.7,169,169,169
+		s169-75.7,169-169S833.7,414.1,740.3,414.1z"/>
+</g>
+<g>
+	<text transform="matrix(0.9999 0 0 1 678.9229 538.1426)" class="st1 st7 st11">97.7%</text>
+	<text transform="matrix(0.9999 0 0 1 686.7129 581.3369)" class="st1 st2 st3">Forest </text>
+	<text transform="matrix(0.9999 0 0 1 678.4531 624.541)" class="st1 st2 st3">covered</text>
+	<text transform="matrix(0.9999 0 0 1 710.873 667.7354)" class="st1 st2 st3">rate</text>
+</g>
+<g>
+	<rect x="257.7" y="1585.6" class="st0" width="323.6" height="383.3"/>
+	<text transform="matrix(1 0 0 1 257.7104 1609.6021)" class="st1 st2 st5">Each tiger has their </text>
+	<text transform="matrix(1 0 0 1 257.7104 1648.0021)" class="st1 st2 st5">own footprint. It serve </text>
+	<text transform="matrix(1 0 0 1 257.7104 1686.4021)" class="st1 st2 st5">to identify them.</text>
 </g>
 <g>
 	<g>
+		<path class="st12" d="M184.3,1274.4V1860c0,86,69.7,155.7,155.7,155.7h291.2c86,0,155.7,69.7,155.7,155.7v147.8"/>
+		<g>
+			<polygon points="779.3,2317 786.8,2329.9 794.3,2317 			"/>
+		</g>
 	</g>
-	<g>
-	</g>
 </g>
-<g>
-	<path class="st9" d="M740.3,464.45v-50.33c-8.59,0-17.96,0.74-26.44,2.08l7.87,49.72C727.79,464.96,733.99,464.46,740.3,464.45z"/>
-	<path class="st10" d="M740.3,414.12v50.33c0.06,0,0.11,0,0.17,0c65.94,0,119.39,53.45,119.39,119.39s-53.45,119.39-119.39,119.39
-		s-119.39-53.45-119.39-119.39c0-59.56,43.62-108.93,100.65-117.92l-7.87-49.72c-83.72,13.26-142.58,82.18-142.58,166.94
-		c0,93.35,75.67,169.02,169.02,169.02s169.02-75.67,169.02-169.02S833.65,414.12,740.3,414.12z"/>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1.0001 678.9227 538.1431)"><tspan x="0" y="0" class="st1 st7 st11">97.7%</tspan><tspan x="7.79" y="43.19" class="st1 st2 st3">Forest </tspan><tspan x="-0.47" y="86.39" class="st1 st2 st3">covered</tspan><tspan x="31.95" y="129.58" class="st1 st2 st3">rate</tspan></text>
-</g>
-<g>
-	<rect x="257.71" y="1585.6" class="st0" width="323.55" height="383.32"/>
-	<text transform="matrix(1 0 0 1 257.7104 1609.6021)"><tspan x="0" y="0" class="st1 st2 st5">Each tiger has their </tspan><tspan x="0" y="38.4" class="st1 st2 st5">own footprint. It serve </tspan><tspan x="0" y="76.8" class="st1 st2 st5">to identify them.</tspan></text>
-</g>
+<rect x="442.2" y="2134.4" class="st0" width="324.4" height="164.4"/>
+<text transform="matrix(0.9999 0 0 1 514.2309 2161.3726)"><tspan x="0" y="0" class="st1 st2 st3">Images fron the </tspan><tspan x="-7" y="43.2" class="st1 st2 st3">Northeast China </tspan><tspan x="-38.2" y="86.4" class="st1 st2 st3">Tiger and Leopard </tspan><tspan x="36.2" y="129.6" class="st1 st2 st3">National Park</tspan></text>
 </svg>
