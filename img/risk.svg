@@ -1,77 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.3.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 748.5 267" style="enable-background:new 0 0 748.5 267;" xml:space="preserve">
+	 viewBox="0 0 795 315.9" style="enable-background:new 0 0 795 315.9;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');;
 	.st0{fill:#231F20;}
-	.st1{font-family:'Roboto-Bold';}
-	.st2{font-size:41.35px;}
-	.st3{fill:#A39C8C;}
+	.st1{font-family:'Roboto';font-weight: 700;}
+	.st2{font-size:48px;}
+	.st3{fill:#B2ACA1;}
 	.st4{fill:#F0592C;}
-	.st5{font-size:27.5666px;}
-	.st6{fill:#FFFFFF;}
-	.st7{font-family:'Roboto-Regular';}
-	.st8{font-size:20.675px;}
-	.st9{fill:none;stroke:#231F20;stroke-width:0.5;stroke-miterlimit:10;}
+	.st5{font-family:'Roboto';font-weight: 700;}
+	.st6{font-size:32px;}
+	.st7{fill:#FFFFFF;}
+	.st8{font-family:'Roboto';font-weight: 700;}
+	.st9{font-size:24px;}
+	.st10{fill:none;stroke:#231F20;stroke-miterlimit:10;}
 </style>
 <g>
+	<text transform="matrix(1 0 0 1 197.8032 102.1142)" class="st0 st1 st2">EXTINCTION RISK</text>
+</g>
+<g>
+	<path class="st3" d="M194.3,206.6h-56.8c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3h56.8c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C197.5,205.1,196.1,206.6,194.3,206.6z"/>
+	<path class="st3" d="M274.9,206.6H218c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3h56.8c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C278.1,205.1,276.7,206.6,274.9,206.6z"/>
+	<path class="st4" d="M355.4,206.6h-56.8c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3h56.8c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C358.7,205.1,357.2,206.6,355.4,206.6z"/>
+	<path class="st3" d="M436,206.6h-56.8c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3H436c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C439.3,205.1,437.8,206.6,436,206.6z"/>
+	<path class="st3" d="M516.6,206.6h-56.8c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3h56.8c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C519.8,205.1,518.4,206.6,516.6,206.6z"/>
+	<path class="st3" d="M597.2,206.6h-56.8c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3h56.8c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C600.4,205.1,599,206.6,597.2,206.6z"/>
+	<path class="st3" d="M677.8,206.6h-56.8c-1.8,0-3.3-1.5-3.3-3.3v-43.4c0-1.8,1.5-3.3,3.3-3.3h56.8c1.8,0,3.3,1.5,3.3,3.3v43.4
+		C681,205.1,679.5,206.6,677.8,206.6z"/>
+	<text transform="matrix(1 0 0 1 632.1934 195.0048)" class="st0 st5 st6">EX</text>
+	<text transform="matrix(1 0 0 1 543.9609 195.0048)" class="st0 st5 st6">EW</text>
+	<text transform="matrix(1 0 0 1 465.9883 195.0048)" class="st0 st5 st6">CR</text>
+	<text transform="matrix(1 0 0 1 386.0854 195.0048)" class="st0 st5 st6">EN</text>
 	<g>
-		<text transform="matrix(1 0 0 1 201.7559 65.6333)" class="st0 st1 st2">EXTINCTION RISK</text>
+		<text transform="matrix(1 0 0 1 305.1011 195.0048)" class="st7 st5 st6">VU</text>
 	</g>
-	<path class="st3" d="M184.26,155.61h-48.07c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C187.51,154.15,186.05,155.61,184.26,155.61z"/>
-	<path class="st3" d="M253.67,155.61H205.6c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C256.92,154.15,255.47,155.61,253.67,155.61z"/>
-	<path class="st3" d="M323.08,155.61h-48.07c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C326.33,154.15,324.88,155.61,323.08,155.61z"/>
-	<path class="st4" d="M392.5,155.61h-48.07c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C395.75,154.15,394.29,155.61,392.5,155.61z"/>
-	<path class="st3" d="M461.91,155.61h-48.07c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C465.16,154.15,463.7,155.61,461.91,155.61z"/>
-	<path class="st3" d="M531.32,155.61h-48.07c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C534.57,154.15,533.12,155.61,531.32,155.61z"/>
-	<path class="st3" d="M600.73,155.61h-48.07c-1.8,0-3.25-1.46-3.25-3.25v-36.49c0-1.8,1.46-3.25,3.25-3.25h48.07
-		c1.8,0,3.25,1.46,3.25,3.25v36.49C603.98,154.15,602.53,155.61,600.73,155.61z"/>
-	<text transform="matrix(1 0 0 1 561.9395 145.6548)" class="st0 st1 st5">EX</text>
-	<text transform="matrix(1 0 0 1 485.9307 145.6548)" class="st0 st1 st5">EW</text>
-	<text transform="matrix(1 0 0 1 418.7607 145.6548)" class="st0 st1 st5">CR</text>
-	<g>
-		<text transform="matrix(1 0 0 1 349.9272 145.6548)" class="st6 st1 st5">EN</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 280.1626 145.6548)" class="st0 st1 st5">VU</text>
-	</g>
-	<text transform="matrix(1 0 0 1 210.8257 145.6548)" class="st0 st1 st5">NT</text>
-	<text transform="matrix(1 0 0 1 143.4399 145.6548)" class="st0 st1 st5">LC</text>
-	<text transform="matrix(1 0 0 1 468.292 96.3516)" class="st0 st7 st8">More risk</text>
+	<text transform="matrix(1 0 0 1 224.6128 195.0048)" class="st0 st5 st6">NT</text>
+	<text transform="matrix(1 0 0 1 146.3901 195.0048)" class="st0 st5 st6">LC</text>
+	<text transform="matrix(1 0 0 1 525.5127 137.7724)" class="st0 st8 st9">More risk</text>
 	<g>
 		<g>
-			<line class="st9" x1="556.35" y1="90.22" x2="590.21" y2="90.22"/>
+			<line class="st10" x1="625.7" y1="130.7" x2="663.9" y2="130.7"/>
 			<g>
-				<path class="st0" d="M586.8,92.62c-0.07-0.12-0.04-0.27,0.08-0.35l3.23-2.05l-3.23-2.05c-0.12-0.07-0.15-0.23-0.08-0.35
-					s0.23-0.15,0.35-0.08l3.56,2.27c0.07,0.05,0.12,0.13,0.12,0.21s-0.04,0.17-0.12,0.21l-3.56,2.27c-0.04,0.03-0.09,0.04-0.13,0.04
-					C586.93,92.74,586.84,92.7,586.8,92.62z"/>
+				<path class="st0" d="M653.7,137.9c-0.2-0.3-0.1-0.8,0.2-1l9.7-6.2l-9.7-6.2c-0.4-0.2-0.5-0.7-0.2-1s0.7-0.4,1-0.2l10.7,6.8
+					c0.2,0.1,0.3,0.4,0.3,0.6s-0.1,0.5-0.3,0.6l-10.7,6.8c-0.1,0.1-0.3,0.1-0.4,0.1C654,138.2,653.8,138.1,653.7,137.9z"/>
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 180.4575 96.3516)" class="st0 st7 st8">Less risk</text>
-	<text transform="matrix(1 0 0 1 132.936 181.6206)" class="st0 st7 st8">Least concern</text>
-	<text transform="matrix(1 0 0 1 544.8535 181.6206)" class="st0 st7 st8">Extinct</text>
+	<text transform="matrix(1 0 0 1 189.3613 137.7724)" class="st0 st8 st9">Less risk</text>
+	<text transform="matrix(1 0 0 1 96.1587 236.7548)" class="st0 st8 st9">Least concern</text>
+	<text transform="matrix(1 0 0 1 617.3955 236.7548)" class="st0 st8 st9">Extinct</text>
 	<g>
 		<g>
-			<line class="st9" x1="172.81" y1="90.22" x2="138.94" y2="90.22"/>
+			<line class="st10" x1="180.5" y1="130.7" x2="142.3" y2="130.7"/>
 			<g>
-				<path class="st0" d="M142.36,87.82c0.07,0.12,0.04,0.27-0.08,0.35l-3.23,2.05l3.23,2.05c0.12,0.07,0.15,0.23,0.08,0.35
-					s-0.23,0.15-0.35,0.08l-3.56-2.27c-0.07-0.05-0.12-0.13-0.12-0.21s0.04-0.17,0.12-0.21l3.56-2.27c0.04-0.03,0.09-0.04,0.13-0.04
-					C142.23,87.71,142.31,87.75,142.36,87.82z"/>
+				<path class="st0" d="M152.5,123.5c0.2,0.3,0.1,0.8-0.2,1l-9.7,6.2l9.7,6.2c0.4,0.2,0.5,0.7,0.2,1s-0.7,0.4-1,0.2l-10.7-6.8
+					c-0.2-0.1-0.3-0.4-0.3-0.6s0.1-0.5,0.3-0.6l10.7-6.8c0.1-0.1,0.3-0.1,0.4-0.1C152.1,123.1,152.4,123.2,152.5,123.5z"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 298.1055 208.0884)" class="st0 st7 st5">Endangered</text>
+			<text transform="matrix(1 0 0 1 249.0859 267.4794)" class="st0 st1 st6">Vulnerable</text>
 		</g>
-		<polygon class="st0" points="385.68,181.36 356.44,181.36 371.06,166.74 		"/>
+		<polygon class="st0" points="344.3,236.5 310.4,236.5 327.3,219.5 		"/>
 	</g>
 </g>
 </svg>

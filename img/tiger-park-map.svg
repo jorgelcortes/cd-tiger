@@ -3,10 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1925 1621" style="enable-background:new 0 0 1925 1621;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');;
 	.st0{fill:none;stroke:#231F20;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:#FFFFFF;}
 	.st2{fill:#231F20;}
-	.st3{font-family:'Roboto-Regular';}
+	.st3{font-family:'Roboto';font-weight: 300;}
 	.st4{font-size:28.3492px;}
 	.st5{fill:none;stroke:#B21F24;stroke-width:4;stroke-miterlimit:10;}
 	.st6{fill:#B21F24;}
@@ -17,7 +18,7 @@
 	.st11{fill:#FFF100;}
 	.st12{font-size:33.0741px;}
 	.st13{font-size:33.159px;}
-	.st14{font-family:'Roboto-Bold';}
+	.st14{font-family:'Roboto';font-weight: 700;}
 	.st15{font-size:46.0046px;}
 	.st16{fill:none;stroke:#4B8044;stroke-width:10;stroke-miterlimit:10;}
 </style>
@@ -39,7 +40,7 @@
 		<text transform="matrix(0.9999 0 0 1 1253.2744 450.9272)" class="st3 st4">20 km</text>
 	</g>
 </g>
-<image style="overflow:visible;" width="170" height="178" xlink:href="7966AE8F7209A3DE.jpg"  transform="matrix(1 0 0 1 1188 194)">
+<image style="overflow:visible;enable-background:new    ;" width="170" height="178" xlink:href="7966AE8F7209A3DE.jpg"  transform="matrix(1 0 0 1 1188 194)">
 </image>
 <g>
 	<g>
@@ -55,16 +56,16 @@
 	</g>
 </g>
 <g>
-	<text transform="matrix(0.9999 0 0 1 1084.1279 991.2539)" class="st3 st7">ChunHua</text>
+	<text transform="matrix(0.9999 0 0 1 1084.1279 991.2539)" class="st3 st7">Chunhua</text>
 </g>
 <g>
-	<text transform="matrix(0.9999 0 0 1 827.4668 960.6855)" class="st3 st7">FuXing</text>
+	<text transform="matrix(0.9999 0 0 1 827.4668 960.6855)" class="st3 st7">Fuzing</text>
 </g>
 <g>
-	<text transform="matrix(0.9999 0 0 1 847.6787 678.6328)" class="st3 st7">LaoHeiShan</text>
+	<text transform="matrix(0.9999 0 0 1 847.6787 678.6328)" class="st3 st7">Laoheishan</text>
 </g>
 <g>
-	<text transform="matrix(0.9999 0 0 1 655.1797 752.6152)" class="st3 st7">LouZiGou</text>
+	<text transform="matrix(0.9999 0 0 1 655.1797 752.6152)" class="st3 st7">Louzigou</text>
 </g>
 <rect x="1491.4" y="1169.7" class="st8" width="322.2" height="292.1"/>
 <text transform="matrix(0.9999 0 0 1 1491.4287 1195.2324)" class="st3 st7">From 2003 to 2016, </text>
@@ -88,7 +89,7 @@
 	<rect x="275.5" y="1264.2" class="st8" width="414.1" height="142.7"/>
 	<text transform="matrix(0.9999 0 0 1 275.4507 1288.958)" class="st3 st12">Core protection area. Only </text>
 	<text transform="matrix(0.9999 0 0 1 275.4507 1328.6426)" class="st3 st12">scientific research and </text>
-	<text transform="matrix(0.9999 0 0 1 275.4507 1368.3262)" class="st3 st12">surveillance will be allowed</text>
+	<text transform="matrix(0.9999 0 0 1 275.4507 1368.3262)" class="st3 st12">surveillance will be allowed.</text>
 </g>
 <g>
 	<text transform="matrix(0.9999 0 0 1 614.5439 222.627)" class="st3 st13">National Park boundaries</text>
@@ -97,7 +98,7 @@
 	<text transform="matrix(0.9999 0 0 1 614.5439 345.627)" class="st3 st13">General control area</text>
 </g>
 <g>
-	<text transform="matrix(0.9999 0 0 1 702.3848 89.627)" class="st14 st15">NorthEast China Tiger</text>
+	<text transform="matrix(0.9999 0 0 1 702.3848 89.627)" class="st14 st15">Northeast China Tiger</text>
 	<text transform="matrix(0.9999 0 0 1 656.0146 144.8228)" class="st14 st15">and Leopard National Park</text>
 </g>
 <line class="st16" x1="592.1" y1="210.6" x2="560.5" y2="210.6"/>

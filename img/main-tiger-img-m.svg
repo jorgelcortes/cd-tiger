@@ -3,13 +3,14 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 799 2122" style="enable-background:new 0 0 799 2122;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');;
 	.st0{fill:none;stroke:#000000;stroke-width:0.7681;stroke-miterlimit:10;}
 	.st1{fill:none;}
 	.st2{fill:#231F20;}
-	.st3{font-family:'Roboto-Regular';}
+	.st3{font-family:'Roboto';font-weight: 300;}
 	.st4{font-size:32px;}
 	.st5{fill:#F0592C;}
-	.st6{font-family:'Roboto-Bold';}
+	.st6{font-family:'Roboto';font-weight: 700;}
 	.st7{font-size:40.004px;}
 	.st8{font-size:34.0034px;}
 	.st9{fill:#DFDFDF;stroke:#231F20;stroke-width:0.3;stroke-miterlimit:10;}
@@ -18,25 +19,19 @@
 	.st12{font-size:36.0036px;}
 	.st13{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
 </style>
-<image style="overflow:visible;" width="791" height="1626" xlink:href="3860C564B65DF2A7.jpg"  transform="matrix(1 0 0 1 2 496)">
+<image style="overflow:visible;" width="791" height="1626" xlink:href="3860C564B65DF2A6.jpg"  transform="matrix(1 0 0 1 2 496)">
 </image>
 <line class="st0" x1="340.8" y1="1684.8" x2="340.8" y2="1736.4"/>
 <g>
 	<rect x="425.6" y="308.8" class="st1" width="367.3" height="235.1"/>
-	<text transform="matrix(1 0 0 1 425.6254 332.7493)" class="st2 st3 st4">More than 6,800 rangers </text>
-	<text transform="matrix(1 0 0 1 425.6254 371.1493)" class="st2 st3 st4">travel through dense </text>
-	<text transform="matrix(1 0 0 1 425.6254 409.5493)" class="st2 st3 st4">forests to protect the </text>
-	<text transform="matrix(1 0 0 1 425.6254 447.9492)" class="st2 st3 st4">wildlife in the national </text>
-	<text transform="matrix(1 0 0 1 425.6254 486.3494)" class="st2 st3 st4">park.</text>
+	<text transform="matrix(1 0 0 1 425.6201 332.75)"><tspan x="0" y="0" class="st2 st3 st4">More than 6,800 rangers </tspan><tspan x="0" y="38.4" class="st2 st3 st4">patrol dense forests to </tspan><tspan x="0" y="76.8" class="st2 st3 st4">protect the wildlife in the </tspan><tspan x="0" y="115.2" class="st2 st3 st4">national park.</tspan></text>
 </g>
 <g>
 	<text transform="matrix(0.9999 0 0 1 422.1309 280.1494)" class="st5 st6 st7">VOLUNTEERS</text>
 </g>
 <g>
 	<rect x="3" y="96.6" class="st1" width="796" height="132.8"/>
-	<text transform="matrix(1 0 0 1 2.9548 120.6033)" class="st2 st3 st4">The national park management bureau plants trees in </text>
-	<text transform="matrix(1 0 0 1 2.9548 159.0033)" class="st2 st3 st4">the park to maintain a favorable habitat for tigers and </text>
-	<text transform="matrix(1 0 0 1 2.9548 197.4033)" class="st2 st3 st4">other animals</text>
+	<text transform="matrix(1 0 0 1 2.9502 120.6001)"><tspan x="0" y="0" class="st2 st3 st4">The national park management bureau plants trees in </tspan><tspan x="0" y="38.4" class="st2 st3 st4">the park to maintain a favorable habitat for tigers and </tspan><tspan x="0" y="76.8" class="st2 st3 st4">other animals.</tspan></text>
 </g>
 <g>
 	<text transform="matrix(0.9999 0 0 1 2.9546 50.9546)" class="st5 st6 st7">FOREST</text>
@@ -48,9 +43,7 @@
 </g>
 <g>
 	<rect x="83.2" y="1755" class="st1" width="323.5" height="133.4"/>
-	<text transform="matrix(1 0 0 1 83.2114 1778.9521)" class="st2 st3 st4">Each tiger has their </text>
-	<text transform="matrix(1 0 0 1 83.2114 1817.3521)" class="st2 st3 st4">own footprint. It serve </text>
-	<text transform="matrix(1 0 0 1 83.2114 1855.7521)" class="st2 st3 st4">to identify them.</text>
+	<text transform="matrix(1 0 0 1 83.21 1778.9561)"><tspan x="0" y="0" class="st2 st3 st4">Each tiger has its own </tspan><tspan x="0" y="38.4" class="st2 st3 st4">footprint, which serves </tspan><tspan x="0" y="76.8" class="st2 st3 st4">to identify it.</tspan></text>
 </g>
 <g>
 	<path class="st9" d="M196.9,293.3V243c-8.6,0-18,0.7-26.4,2.1l7.9,49.7C184.4,293.8,190.6,293.3,196.9,293.3z"/>
@@ -61,7 +54,7 @@
 <g>
 	<text transform="matrix(0.9999 0 0 1 135.5757 367.0142)" class="st2 st6 st11">97.7%</text>
 	<text transform="matrix(0.9999 0 0 1 143.3657 410.2085)" class="st2 st3 st12">Forest </text>
-	<text transform="matrix(0.9999 0 0 1 135.1055 453.4126)" class="st2 st3 st12">covered</text>
+	<text transform="matrix(0.9999 0 0 1 129.1055 453.4126)" class="st2 st3 st12">coverage</text>
 	<text transform="matrix(0.9999 0 0 1 167.5259 496.6069)" class="st2 st3 st12">rate</text>
 </g>
 <g>
